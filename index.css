@@ -1,0 +1,49 @@
+#container {
+  width: 500px;
+  height: 550px;
+  margin: 0 auto;
+  text-align: relative;
+  border: 1px solid rgb(1, 8, 1);
+  background-color: azure;
+  
+}
+.element {
+  margin: 5px;
+}
+label {
+  float: left;
+  width: 1400px;
+}
+input {
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid rgb(38, 25, 25);
+  
+}
+#submit {
+  width: 110px;
+  position: relative;
+  left: 140px;
+  border-radius: 5px;
+  border: 1.5px solid rgb(219, 228, 232);
+  padding: 10px;
+}
+.header {
+  background-color: rgb(141, 145, 146);
+  border: 1px solid rgb(92, 87, 63);
+  margin: 5px;
+  padding: 10x;
+}
+.header h1 {
+  margin: 15px 15px 15px 100px;
+}
+h2 {
+  margin-left: 160px;
+}
+.error {
+  color: red;
+}
+.element{
+padding: 10px; 
+}
